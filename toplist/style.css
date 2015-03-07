@@ -1,0 +1,22 @@
+/*.description{
+	color:red;
+}*/
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+*{
+	outline: 1px solid red !important;
+}
+.image{
+	max-width: 460px;
+}
+.description{
+	max-width: 705px;
+}
+.app{
+	display: -webkit-flex;
+	display: flex;
+}

@@ -1,0 +1,16 @@
+* {
+    border: 1px solid red !important;
+}
+body{
+
+	font-family: 'Homemade Apple', cursive;
+	color: #BCBBBB;
+	font-weight: 300;
+}
+
+.text-muted{
+	color: #BCBBBB;
+}
+.text-thin{
+	font-weight: 100;
+}
